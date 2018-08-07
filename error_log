@@ -1,0 +1,16 @@
+[08-Nov-2017 14:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/h6u3088vxr/public_html/wp-content/themes/base/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/h6u3088vxr/public_html/wp-content/themes/base/index.php on line 1
+[06-Feb-2018 21:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/h6u3088vxr/public_html/wp-content/themes/base/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/h6u3088vxr/public_html/wp-content/themes/base/index.php on line 1
+[06-Feb-2018 21:49:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/h6u3088vxr/public_html/wp-content/themes/base/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/h6u3088vxr/public_html/wp-content/themes/base/index.php on line 1
+[06-May-2018 23:21:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/h6u3088vxr/public_html/wp-content/themes/base/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/h6u3088vxr/public_html/wp-content/themes/base/404.php on line 2

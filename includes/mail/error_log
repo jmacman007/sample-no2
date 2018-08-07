@@ -1,0 +1,16 @@
+[24-Oct-2017 03:51:00 UTC] PHP Notice:  Undefined index: referrer in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 21
+[24-Oct-2017 03:51:00 UTC] PHP Notice:  Undefined index: medium in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 22
+[24-Oct-2017 03:51:00 UTC] PHP Notice:  Undefined index: source in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 23
+[24-Oct-2017 03:51:00 UTC] PHP Notice:  Undefined index: visits in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 24
+[24-Oct-2017 03:54:06 UTC] PHP Notice:  Undefined index: referrer in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 21
+[24-Oct-2017 03:54:06 UTC] PHP Notice:  Undefined index: medium in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 22
+[24-Oct-2017 03:54:06 UTC] PHP Notice:  Undefined index: source in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 23
+[24-Oct-2017 03:54:06 UTC] PHP Notice:  Undefined index: visits in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 24
+[24-Oct-2017 04:00:17 UTC] PHP Notice:  Undefined index: referrer in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 21
+[24-Oct-2017 04:00:17 UTC] PHP Notice:  Undefined index: medium in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 22
+[24-Oct-2017 04:00:17 UTC] PHP Notice:  Undefined index: source in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 23
+[24-Oct-2017 04:00:17 UTC] PHP Notice:  Undefined index: visits in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 24
+[24-Oct-2017 04:03:02 UTC] PHP Notice:  Undefined index: referrer in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 21
+[24-Oct-2017 04:03:02 UTC] PHP Notice:  Undefined index: medium in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 22
+[24-Oct-2017 04:03:02 UTC] PHP Notice:  Undefined index: source in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 23
+[24-Oct-2017 04:03:02 UTC] PHP Notice:  Undefined index: visits in /home/h6u3088vxr/public_html/wp-content/themes/base/includes/mail/contact_me.php on line 24
